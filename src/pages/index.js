@@ -30,7 +30,7 @@ export default function Home() {
   };
 
   return (
-    <div className="container p-10 flex items-center justify-center">
+    <div className="container p-10 flex items-center justify-center w-full h-screen">
       <div className="p-10 border border-gray-300 rounded flex flex-col items-center">
         <h1 className="text-center text-5xl">
           Tạo file PDF thông tin đơn hàng - SKUs
